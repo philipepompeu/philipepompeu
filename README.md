@@ -1,25 +1,22 @@
 ## 🚀 About Me
-I'm a software developer with solid experience in creating and maintaining **ERP solutions**, currently working as a **Senior AdvPL Programmer** at **Totvs**, the largest technology company in Brazil. 
+I'm a backend software developer specialized in **C# and ASP.NET Core**, currently working on the **Contracts Management module** of the **Protheus ERP** at **Totvs**, the largest technology company in Brazil.  
 
-🎓 I have a degree in **Systems Analysis and Development** from the **Federal Institute of São Paulo (IFSP)** and a postgraduate degree in **Java Technology** from the **Federal University of Technology – Paraná (UTFPR)**.
+I have a strong background in **ERP development with AdvPL**, and over the past years I’ve expanded my expertise to modern backend development with **.NET** and **Java**, always seeking **clean code, scalability, and maintainability**.  
 
-Besides ERP development, I have been expanding my expertise in **backend development** with **Java and Spring Boot**, occasionally maintaining Java systems. I am passionate about **clean code, best practices, and software architecture**.
-
-## 🛠️ Technologies & Tools
-- **ERP Development**: AdvPL, Protheus
-- **Backend**: Java, Spring Boot, REST APIs
-- **Databases**: PostgreSQL, SQL Server
-- **DevOps**: Docker, GitHub Actions, AWS (EC2, S3, ECS, CloudWatch)
-- **Others**: Redis, RabbitMQ, Vue.js (basic), Angular (basic)
-
-## 🌱 What I'm Learning
-- **Design Patterns & SOLID** for scalable software
-- **Microservices architecture** with Spring Boot
-- **CI/CD Pipelines** (AWS CodePipeline, CodeBuild, GitHub Actions)
-- **Cloud & Infrastructure** (AWS, Docker, Kubernetes)
-
-## 📫 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/philipepompeu)
+🎓 Degree in **Systems Analysis and Development** (IFSP)  
+🎓 Postgraduate in **Java Technology** (UTFPR)  
 
 ---
 
+## 🛠️ Technologies & Tools
+- **Backend**: C#, ASP.NET Core, MassTransit, REST APIs, Entity Framework Core, Java (Spring Boot)  
+- **ERP Development**: AdvPL, Protheus  
+- **Databases**: PostgreSQL, SQL Server  
+- **DevOps**: Docker, Azure DevOps (CI/CD), GitHub Actions  
+- **Frontend**: Angular  
+- **Testing**: xUnit, Moq  
+
+---
+
+## 📫 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/philipepompeu)
